@@ -1,0 +1,6 @@
+.env.env
+node_modules
+RestClient
+
+# any file that stats with test-
+test-*
