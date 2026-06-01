@@ -172,6 +172,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 <div align="center">
   <p>Made with ❤️ by <a href="https://github.com/samitsankhla">Samit Sankhla</a></p>
 </div># AI-Invoice-Generator
-# AI-Invoice-Generator
-# AI-Invoice-Generator
-# AI-Invoice-Generator
+
